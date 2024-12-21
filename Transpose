@@ -1,3 +1,5 @@
+# Program to Transpose a matrix
+
 #include<stdio.h>
 void transpose (int x, int y, int c[x][y]);
 int main () {
